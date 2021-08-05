@@ -19,7 +19,7 @@ The software is now ready to use.
 
 The plotProps class is meant as a superclass that provides functionality for plotting. The functionality so far is very limited. Declare plotProps as a superclass
 ```
-classdef myCLass < plotProps
+classdef myClass < plotProps
 ```
 . The code can also be used stand-alone but has limited use here:
 ```
@@ -88,4 +88,4 @@ myClass.colormap
 
 ## License
 
-This project is licensed under the terms of the [MIT License](/LICENSE.md)
+This project is licensed under the terms of the [GPL-3.0 License](/LICENSE.md).
