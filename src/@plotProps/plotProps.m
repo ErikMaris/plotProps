@@ -26,7 +26,7 @@ classdef plotProps
     
     % plotting
     properties % make transient?
-        colormap = 'viridis'; % string // stores the name of the colormap https://nl.mathworks.com/help/matlab/ref/colormap.html
+        colormap = 'lines'; % string // stores the name of the colormap https://nl.mathworks.com/help/matlab/ref/colormap.html
         lineWidth = 1; % line thickness
     end
     
